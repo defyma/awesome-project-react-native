@@ -1,6 +1,6 @@
 # awesome-project-react-native
 Template Bersama
-version : 1.0.1
+versi : 1.0.1
 
 # dependencies library
 - "native-base": "^2.13.4",
